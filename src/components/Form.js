@@ -5,4 +5,6 @@ const Form = () => (
         <input type="text"/>
         <button>Search</button>
     </form>
-)
+);
+
+export default Form;
